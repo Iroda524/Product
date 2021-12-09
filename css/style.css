@@ -1,0 +1,28 @@
+a {
+  text-decoration-line: none;
+}
+
+.icon {
+  width: 40px;
+  height: 37px;
+}
+
+.container .sign_in {
+  border: none;
+  border-radius: 5px;
+  border: #02897A 1px solid;
+  background-color: white;
+}
+.container .sign_up {
+  border: none;
+  border-radius: 5px;
+  border: #02897A 1px solid;
+  background-color: #02897A;
+}
+.container .thema {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+}
+
+/*# sourceMappingURL=style.css.map */
