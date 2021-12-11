@@ -19,13 +19,12 @@
     border-radius: 5px;
     border: $bcol 1px solid;
     background-color: $bgcol;
+    color: $bcol;
+    padding: 5px 10px;
 }
 .container{
-    .sign_in{
+    .bgw{
         @include button( #02897A, white);
-    }
-    .sign_up{
-        @include button( #02897A, #02897A);
     }
     .thema{
         width: 20px;
@@ -33,3 +32,11 @@
         border-radius: 50%;
     }
 }
+
+.bgc{
+    @include button( white, #02897A);
+}
+// .profic{
+//     width: 60%;
+//     height: 60%;
+// }

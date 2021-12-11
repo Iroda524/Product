@@ -7,22 +7,27 @@ a {
   height: 37px;
 }
 
-.container .sign_in {
+.container .bgw {
   border: none;
   border-radius: 5px;
   border: #02897A 1px solid;
   background-color: white;
-}
-.container .sign_up {
-  border: none;
-  border-radius: 5px;
-  border: #02897A 1px solid;
-  background-color: #02897A;
+  color: #02897A;
+  padding: 5px 10px;
 }
 .container .thema {
   width: 20px;
   height: 20px;
   border-radius: 50%;
+}
+
+.bgc {
+  border: none;
+  border-radius: 5px;
+  border: white 1px solid;
+  background-color: #02897A;
+  color: white;
+  padding: 5px 10px;
 }
 
 /*# sourceMappingURL=style.css.map */
